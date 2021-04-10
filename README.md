@@ -16,3 +16,10 @@ Assuntos que vou abordar:
 
 ![Passo a passo da convolução](https://i2.wp.com/www.deeplearningbook.com.br/wp-content/uploads/2019/06/dogs_cats.gif?resize=1170%2C658&ssl=1)
 
+### Dain App
+
+https://grisk.itch.io/dain-app
+
+Comparativo animação Coraline: https://www.youtube.com/watch?v=8V6NCcg-NAo
+
+Comparativo Bob Esponja: https://www.youtube.com/watch?v=sdyzmrSqazE
